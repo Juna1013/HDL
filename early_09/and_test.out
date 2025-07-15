@@ -1,0 +1,1 @@
+iverilog -o and_test.out tb_and_gate.v and_gate.v
