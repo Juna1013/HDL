@@ -1,3 +1,4 @@
+// 半加算器
 module half_adder(
   input a, b, // 1ビットの入力2つ
   output sum, cout // 和（sum）と桁上がり（cout）
